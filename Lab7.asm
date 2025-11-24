@@ -1,4 +1,3 @@
-# Full Name + Student Id:(لجين الصديقي 446001578)(نوران الانصاري 446000744)(لجين التركستاني446002072)(راما الثبيتي 446012670)
 # Labx7+8: The program calculates the user’s vitamin deficiency and determines the number of days needed to reach the normal level based on the amount of food entered.
 
 .data 
